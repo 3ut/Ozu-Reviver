@@ -4,9 +4,6 @@
   
   <h2 align="center">Guilded Generator</h3>
 
-  <p align="center">
-    Generate valid tokens!
-  </p>
 </div>
 
 ---------------------------------------
