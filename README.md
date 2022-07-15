@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.guidetti-informatica.net/wp-content/uploads/2022/05/discord-icon.jpg" alt="Logo" width="120" height="120">
+    <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="Logo" width="120" height="120">
 
   
   <h2 align="center">Ozu Nuker</h3>
