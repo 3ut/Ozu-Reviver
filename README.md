@@ -1,17 +1,16 @@
 <div align="center">
-    <img src="https://cdn.survivetheark.com/uploads/monthly_2021_09/guilded.png.cee9a3c757428e4fd0faa6a3c3081294.png" alt="Logo" width="120" height="120">
+    <img src="https://www.guidetti-informatica.net/wp-content/uploads/2022/05/discord-icon.jpg" alt="Logo" width="120" height="120">
 
   
-  <h2 align="center">Guilded Generator</h3>
+  <h2 align="center">Ozu Nuker</h3>
 
 </div>
 
 ---------------------------------------
 
 * Multi-Threading
-* Proxy-Support (HTTP/S)
-* Design your tokens
-* Auto-Joiner
+* Using discord.py and HTTP requests
+* Full customizable 
 
 ---------------------------------------
 
