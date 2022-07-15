@@ -16,6 +16,6 @@
 
 
 > **Warning**
-> If you want to contact me for bugs or suggestions my discord tag is: swaps#9999
+> bugs or suggestions? dm me swaps#1337
 
 
