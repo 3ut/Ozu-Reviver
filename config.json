@@ -1,0 +1,11 @@
+{
+    "prefix": ">",
+    "token": "",
+    "webhooks_name": "SwapsNuker",
+    "webhook_message": "Hi, using swaps nuker! @everyone\nhttps://c.tenor.com/Kcd9s-ao_VkAAAAM/kekw.gif",
+    "channels_name": "swapsnuker",
+    "guild_name": "SwapsNuker V1",
+    "roles_name": "swaps",
+    "tts": "True"
+
+}
