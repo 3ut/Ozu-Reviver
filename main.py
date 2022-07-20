@@ -1,6 +1,8 @@
 '''Copyright, you are not authorized to resell/skid this tool
 
-don't skid this tool, learn to program and make one yourself nerd 🤓'''
+don't skid this tool, learn to program and make one yourself nerd 🤓
+
+btw with this code you will be able to understand how to make a nukebot'''
 
 from concurrent.futures import ThreadPoolExecutor
 import discord, json, time, os
