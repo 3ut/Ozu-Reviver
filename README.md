@@ -10,7 +10,8 @@
 
 * Multi-Threading
 * Full customizable 
-* Fast
+* Full HTTP requests
+* Simple CLI
 
 ---------------------------------------
 
